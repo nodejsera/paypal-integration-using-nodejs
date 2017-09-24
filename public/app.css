@@ -1,0 +1,20 @@
+
+
+body {
+    background: #685784;
+}
+
+.main {
+    background: #ffffff;
+    margin-top: 20%; 
+    padding: 10px; 
+    text-align: center; 
+}
+
+.cover {
+    padding: 2px; 
+}
+
+.padder {
+    padding-left: 10px; 
+}
